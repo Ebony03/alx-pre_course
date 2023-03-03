@@ -1,2 +1,1 @@
-My second commit
-My first readme
+learning git
